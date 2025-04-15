@@ -30,4 +30,4 @@ Para rodar o projeto, certifique-se de ter instaladas as seguintes ferramentas:
 
 - [VSCode](https://code.visualstudio.com/)
 - [NodeJS](https://nodejs.org/en)
-- NPM(Vem integrado com NodeJS) ou [Yarn](https://yarnpkg.com/getting-started/install)
+- NPM(Vem integrado com NodeJS) ou [Yarn](https://yarnpkg.com/getting-started/install).
