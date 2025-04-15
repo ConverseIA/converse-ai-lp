@@ -3,7 +3,6 @@ import { Convertional } from './components/convertional';
 import { AnimatedSection } from './components/animate-section';
 import { Video } from './components/video';
 import { Depoiment } from './components/depoiment';
-import { TechnologyIncorporte } from './components/TechnologyIncorporte';
 import { Plans } from './components/plans';
 import { Button } from './components/ui/button';
 import { Header } from './components/header';
@@ -14,6 +13,7 @@ import {
 	LINK_NAVIGATE,
 } from './lib/constants';
 import { FormContact } from './components/form-contact';
+import { TechnologyIncorporte } from './components/technology-incorporate';
 
 export const App = () => {
 	return (
